@@ -1,7 +1,8 @@
 # Eventex
 
 Sistema de eventos encomendado pela Morena. (WTTD)
-
+[![Build Status](https://travis-ci.org/rafaelbarrelo/wttd-eventex.svg?branch=master)](https://travis-ci.org/rafaelbarrelo/wttd-eventex)
+[![Code Climate](https://codeclimate.com/github/rafaelbarrelo/wttd-eventex/badges/gpa.svg)](https://codeclimate.com/github/rafaelbarrelo/wttd-eventex)
 
 ## Como desenvolver?
 1. Clone o repositório
