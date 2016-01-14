@@ -7,6 +7,7 @@ class Subscription(models.Model):
     phone = models.CharField('telefone', max_length=50)
     email = models.EmailField('email')
     created_at = models.DateTimeField('criado em', auto_now_add=True)
+    paid = models.BooleanField('pago', default=False)
 
     class Meta:
         verbose_name = 'inscrição'
